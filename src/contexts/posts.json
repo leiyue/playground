@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Build Your New Idea with Laravel Freamwork.",
+    "author": "Alex John",
+    "avatar": "/avatars/alex_john.jpeg",
+    "published": "2020-05-31T16:00:00.000Z",
+    "category": "Laravel",
+    "summary": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora expedita dicta totam aspernatur doloremque. Excepturi iste iusto eos enim reprehenderit nisi, accusamus delectus nihil quis facere in modi ratione libero!"
+  },
+  {
+    "title": "Accessibility tools for designers and developers",
+    "author": "Jane Doe",
+    "avatar": "/avatars/jane_doe.jpeg",
+    "published": "2019-03-03T16:00:00.000Z",
+    "category": "Design",
+    "summary": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora expedita dicta totam aspernatur doloremque. Excepturi iste iusto eos enim reprehenderit nisi, accusamus delectus nihil quis facere in modi ratione libero!"
+  },
+  {
+    "title": "PHP: Array to Map",
+    "author": "Lisa Way",
+    "avatar": "/avatars/lisa_way.jpeg",
+    "published": "2019-02-13T16:00:00.000Z",
+    "category": "PHP",
+    "summary": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora expedita dicta totam aspernatur doloremque. Excepturi iste iusto eos enim reprehenderit nisi, accusamus delectus nihil quis facere in modi ratione libero!"
+  },
+  {
+    "title": "Django Dashboard - Learn by Coding",
+    "author": "Steve Matt",
+    "avatar": "/avatars/steve_matt.jpeg",
+    "published": "2018-12-22T16:00:00.000Z",
+    "category": "Django",
+    "summary": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora expedita dicta totam aspernatur doloremque. Excepturi iste iusto eos enim reprehenderit nisi, accusamus delectus nihil quis facere in modi ratione libero!"
+  },
+  {
+    "title": "TDD Frist",
+    "author": "Khatab Wedaa",
+    "avatar": "/avatars/khatab_wedaa.jpeg",
+    "published": "2018-03-09T16:00:00.000Z",
+    "category": "Testing",
+    "summary": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora expedita dicta totam aspernatur doloremque. Excepturi iste iusto eos enim reprehenderit nisi, accusamus delectus nihil quis facere in modi ratione libero!"
+  }
+]
